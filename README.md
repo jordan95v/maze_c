@@ -13,7 +13,7 @@ This is pretty easy, just select the first option in the menu.
 
 The script generate a random maze each time you play, so you never do the same maze twice !
 
-To win, it's pretty straightfoward, you start at the top left corner (@) and you have to go the the bottom left corner, where the dot is.
+To win, it's pretty straightfoward, you start at the top left corner (@) and you have to go the the bottom left corner, where the dot is.\
 ![maze_img](./Capture2.PNG)
 
 # Thanks for reading !
