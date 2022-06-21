@@ -184,16 +184,6 @@ void mazeTrancho()
         break;
     }
 }
-// Algorithme de Prim
-// ajouter o à 1,1
-// répéter jusqu'à ce qu'il soit reched 10,10
-// Regardez autour de l'objet.
-// Choisis un point au hasard
-// Si le mur peut être sculpté dans les limites et que le point n'a pas déjà été traversé.
-// creuser le mur
-// Sinon
-// chercher un nouveau mur
-// ajouter 10,10
 
 void mazeGen(char maze[21][21], char traversed[21][21])
 {
